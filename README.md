@@ -8,8 +8,9 @@
 </p>
 
 <h1>WebSite Image</h1>
-![screencapture-127-0-0-1-8000-2024-09-13-02_13_03](https://github.com/user-attachments/assets/e29807cc-046c-4315-9c7d-c8a07e0f111d)
+
 <img src="[https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://github-production-user-asset-6210df.s3.amazonaws.com/107688114/367064426-e29807cc-046c-4315-9c7d-c8a07e0f111d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240912%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240912T212230Z&X-Amz-Expires=300&X-Amz-Signature=fa3eb21db3af2b241c4e95dfbd92358e060f7172b0541db0a75166bebb18ba3e&X-Amz-SignedHeaders=host&actor_id=107688114&key_id=0&repo_id=856596981)" >
+
 ![screencapture-127-0-0-1-8000-hire-2024-09-13-03_12_03](https://github.com/user-attachments/assets/0a573a2a-09f4-4b47-a897-5317c4a32415)
 
 ![screencapture-127-0-0-1-8000-resume-2024-09-13-03_11_10](https://github.com/user-attachments/assets/1996da6b-6210-41b8-99dc-68cd9f2e3748)
